@@ -8,5 +8,5 @@ The project focuses on designing a digital clock with oops concepts. This progra
 
 # Here is the Output:
 
-![Screenshot (772)](https://user-images.githubusercontent.com/76639713/127268921-72ba1572-b06d-4e03-9ef6-9196c5216d81.png)
+![iHome-Digital-Clock](https://user-images.githubusercontent.com/76639713/218848591-50e34476-89b9-41ca-8d2f-f036205fdc75.png)
 
