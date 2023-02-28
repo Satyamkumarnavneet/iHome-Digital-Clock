@@ -1,6 +1,12 @@
 # iHome-Digital-Clock
 
-The project focuses on designing a digital clock with oops concepts. This program will generate a digital clock with some colors and graphics using Oops concept that will shows hour, minute, and second. The clock is embedded in all kinds of smart phones, computers, tabs and monitors.
+The digital clock design project with OOPs concepts aims to create a clock that displays the time in a visually appealing way using graphics and colors. The clock will show the hour, minute, and second, and will be embedded in all kinds of smart devices such as smartphones, computers, tablets, and monitors.
+
+The project will follow OOPs principles such as encapsulation, inheritance, and polymorphism to create a robust and maintainable codebase. The clock will be designed as a class, with methods and properties that can be accessed and manipulated as needed.
+
+To ensure the clock is optimized for various devices, the code will be tested on multiple platforms and screen sizes to ensure it works seamlessly on all devices. Additionally, the code will be designed with flexibility in mind, so that it can be easily modified or extended to add new features or functionality as needed.
+
+Overall, the digital clock project with OOPs concepts will provide an attractive and functional clock display that can be embedded in a wide range of devices, and will serve as a solid foundation for future clock-related projects.
 
 # Here is the flowchart:
 
